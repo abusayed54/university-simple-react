@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "University of Dhaka",
+        "founded": "July 1921",
+        "students": 28690,
+        "fees": 50000,
+        "address": "Nilkhet Rd, Dhaka 1000",
+        "img": "https://upload.wikimedia.org/wikipedia/en/c/cb/Dhaka_University_logo.svg",
+        "website": "www.du.ac.bd"
+    },
+    {
+        "id": 2,
+        "name": "University of Rajshahi",
+        "founded": "March 31, 1953",
+        "students": 23560,
+        "fees": 48200,
+        "address": "Administration Building 1, Rajshahi",
+        "img": "https://media-eng.dhakatribune.com/uploads/2018/09/ru-l-1-1537203495310.jpg",
+        "website": "www.ru.ac.bd"
+    },
+    {
+        "id": 3,
+        "name": "Bangladesh Agricultural University",
+        "founded": " August 18, 1961",
+        "students": 25600,
+        "fees": 45000,
+        "address": "BAU Main Road, Mymensingh 2202",
+        "img": "https://media-exp1.licdn.com/dms/image/C511BAQHIFvFJ1Q61hQ/company-background_10000/0/1552393473659?e=2159024400&v=beta&t=rQeh51tXgg3r0J3BD8ptQ34_5fYnDruBrvZz_5InuYY",
+        "website": "www.bau.edu.bd"
+    },
+    {
+        "id": 4,
+        "name": "Bangladesh University of Engineering & Technology",
+        "founded": "1876",
+        "students": 15001,
+        "fees": 65000,
+        "address": "Dhaka",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Buet_entance_2019.jpg/220px-Buet_entance_2019.jpg",
+        "website": "www.buet.ac.bd"
+    },
+    {
+        "id": 5,
+        "name": "University of Chittagong",
+        "founded": "November 18, 1966",
+        "students": 27550,
+        "fees": 55000,
+        "address": "Chittagong University Rd, 4331",
+        "img": "https://images.shiksha.com/mediadata/images/1598002619phpXDOaiQ.png",
+        "website": "www.cu.ac.bd"
+    },
+    {
+        "id": 6,
+        "name": "Jahangirnagar University",
+        "founded": "1970",
+        "students": 22350,
+        "fees": 51203,
+        "address": "Kalabagan Rd, Savar Union 1342",
+        "img": "https://www.newagebd.com/files/records/news/202106/141658_197.jpg",
+        "website": "www.juniv.edu"
+    },
+    {
+        "id": 0,
+        "name": "Islamic University, Bangladesh",
+        "founded": "November 22, 1979",
+        "students": 23350,
+        "fees": 49850,
+        "address": "Islamic University, Kushtia",
+        "img": "https://thefinancialexpress.com.bd/public/uploads/1508301395.jpg",
+        "website": "www.iu.ac.bd"
+    },
+    {
+        "id": 8,
+        "name": "Shahjalal University of Science & Technology",
+        "founded": "August 25, 1986",
+        "students": 16589,
+        "fees": 61256,
+        "address": "University Ave, Sylhet 3114",
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/4423134_QeQkMCFOK7oD4ceKyL9gu5VfQpD82dMmvjPxQDgG.jpeg",
+        "website": "www.sust.edu"
+    },
+    {
+        "id": 9,
+        "name": "Khulna University",
+        "founded": "1991",
+        "students": 19562,
+        "fees": 49568,
+        "address": "Sher-E-Bangla Rd, Khulna 9208",
+        "img": "https://wp.bssnews.net/wp-content/uploads/2019/12/KU.jpg",
+        "website": "www.ku.ac.bd"
+    },
+    {
+        "id": 10,
+        "name": "National University",
+        "founded": "1992",
+        "students": 1202151,
+        "fees": 25603,
+        "address": "Dhaka - Mymensingh Hwy, Gazipur 1704",
+        "img": "https://media-eng.dhakatribune.com/uploads/2019/11/web-national-university-1556867217374-1573754592816.jpg",
+        "website": "www.nu.edu.bd"
+    },
+    {
+        "id": 11,
+        "name": "Bangladesh Open University",
+        "founded": "2001",
+        "students": 6500,
+        "fees": 25603,
+        "address": "15/1 Iqbal Rd, Dhaka 1207",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFfQzQkSQPHE6Xel5DPDvy0kH5ZsUREmS6-SUogPgbyRw60TENhsjzmmjGYalJJmnoFkc&usqp=CAU",
+        "website": "www.bou.ac.bd"
+    },
+    {
+        "id": 12,
+        "name": "Bangabandhu Sheikh Mujib Medical University",
+        "founded": "1965",
+        "students": 45236,
+        "fees": 90354,
+        "address": "BSMMU, Dhaka 1000",
+        "img": "https://cdn.risingbd.com/media/imgAll/2018April/bg/BSMMU20180430105908.jpg",
+        "website": "www.bsmmu.edu.bd"
+    },
+    {
+        "id": 13,
+        "name": "Bangabandhu  Agricultural University",
+        "founded": "November 22, 1998",
+        "students": 26589,
+        "fees": 51256,
+        "address": "BSMRAU Road Gazipur, 1706",
+        "img": "https://media-exp1.licdn.com/dms/image/C4E1BAQEzhMpHO6ra9g/company-background_10000/0/1590313775757?e=2159024400&v=beta&t=_wQA7ty0VTz2Dh903RNGGEGO67qEAitTFS3Haw_K6C8",
+        "website": "www.bsmrau.edu.bd"
+    },
+    {
+        "id": 14,
+        "name": "Hajee Mohammad Danesh S & Tech University",
+        "founded": "September 11, 1999",
+        "students": 25696,
+        "fees": 41562,
+        "address": "Basherhat, DinajPur, N508, 5200",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/3rd_Gate_Of_HSTU.jpg/220px-3rd_Gate_Of_HSTU.jpg",
+        "website": "www.hstu.ac.bd"
+    },
+    {
+        "id": 15,
+        "name": "Mawlana Bhashani Science & Technology University",
+        "founded": "October 12, 1999",
+        "students": 23564,
+        "fees": 42568,
+        "address": "Santosh, Tangail, 1902",
+        "img": "https://i0.wp.com/totalinfobd.com/wp-content/uploads/2019/09/MBSTU-main-gate.jpg?fit=1200%2C630&ssl=1",
+        "website": "www.mbstu.ac.bd"
+    },
+    {
+        "id": 16,
+        "name": "Patuakhali Science And Technology University",
+        "founded": "July 8, 2000",
+        "students": 19685,
+        "fees": 38654,
+        "address": "Patuakhali",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Main_Gate_PSTU.jpg/1200px-Main_Gate_PSTU.jpg",
+        "website": "www.pstu.ac.bd"
+    },
+    {
+        "id": 17,
+        "name": "Sher-e-Bangla Agricultural University",
+        "founded": "2001",
+        "students": 26589,
+        "fees": 48568,
+        "address": "Dhaka 1207",
+        "img": "https://www.observerbd.com/2017/11/05/1509900744.jpg",
+        "website": "www.sau.edu.bd"
+    },
+    {
+        "id": 18,
+        "name": "Chittagong University of Engineering & Technology",
+        "founded": "December 23, 1968",
+        "students": 22653,
+        "fees": 61565,
+        "address": "Kaptai, Highway, Chattogram 4349",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Entrance_of_CUET.jpg/250px-Entrance_of_CUET.jpg",
+        "website": "www.cuet.ac.bd"
+    },
+    {
+        "id": 19,
+        "name": "Rajshahi University of Eng & Technology",
+        "founded": "1964",
+        "students": 5954,
+        "fees": 62356,
+        "address": "6204-Dhaka Hwy, Rajshahi",
+        "img": "https://www.daily-sun.com/assets/news_images/2020/12/24/ruet-admission-circular-2019-20-1.jpg",
+        "website": "www.ruet.ac.bd"
+    },
+    {
+        "id": 20,
+        "name": "Khulna University of Engineering & Technology",
+        "founded": "1967",
+        "students": 5698,
+        "fees": 60356,
+        "address": "WG22+6WH, Khulna 9203",
+        "img": "https://www.kuet.ac.bd/images/slides/5.jpg",
+        "website": "www.kuet.ac.bd"
+    },
+    {
+        "id": 21,
+        "name": "Dhaka University of Engineering & Technology",
+        "founded": "1967",
+        "students": 5123,
+        "fees": 48954,
+        "address": "Shimultoly Rd, Gazipur 1707",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dhaka_University_of_Engineering_Technology.jpg/220px-Dhaka_University_of_Engineering_Technology.jpg",
+        "website": "www.duet.ac.bd"
+    }
+]

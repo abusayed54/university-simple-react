@@ -1,0 +1,10 @@
+.result-container{
+    background-color: blueviolet;
+   z-index: 1;
+   position: absolute;
+   right: 0;
+   top:90px;
+   font-family: 'Noto Sans', sans-serif;
+   width: 19%;
+   height: 200px;
+}

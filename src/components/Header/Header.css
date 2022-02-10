@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.header-container{
+    color: rgba(255,255,255, 0.9);
+    text-align: center;
+    width: 60%;
+    box-shadow: 20px 20px 35px rgba(0,0,0,0.5);
+    background: rgba(255,255,255,0.3);  
+    border-radius: 4px;
+    backdrop-filter: blur(5px);
+    padding-bottom: 4px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.header-container h2{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.header-container h3{
+    margin-top: 1px;
+    margin-bottom: 2px;
+    color: white
+}
