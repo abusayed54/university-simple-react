@@ -25,7 +25,7 @@
         "founded": " August 18, 1961",
         "students": 25600,
         "fees": 45000,
-        "address": "BAU Main Road, Mymensingh 2202",
+        "address": "Main Road, Mymensingh 2202",
         "img": "https://media-exp1.licdn.com/dms/image/C511BAQHIFvFJ1Q61hQ/company-background_10000/0/1552393473659?e=2159024400&v=beta&t=rQeh51tXgg3r0J3BD8ptQ34_5fYnDruBrvZz_5InuYY",
         "website": "www.bau.edu.bd"
     },
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "name": "Mawlana Bhashani Science & Technology University",
+        "name": "Mawlana Bhashani S & Tech University",
         "founded": "October 12, 1999",
         "students": 23564,
         "fees": 42568,
@@ -171,11 +171,11 @@
     },
     {
         "id": 18,
-        "name": "Chittagong University of Engineering & Technology",
+        "name": "Chittagong University of Eng & Tech",
         "founded": "December 23, 1968",
         "students": 22653,
         "fees": 61565,
-        "address": "Kaptai, Highway, Chattogram 4349",
+        "address": "Kaptai, Chattogram 4349",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Entrance_of_CUET.jpg/250px-Entrance_of_CUET.jpg",
         "website": "www.cuet.ac.bd"
     },
