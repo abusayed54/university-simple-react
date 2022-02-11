@@ -1,7 +1,7 @@
 import React from 'react';
 import './Card.css'
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee, faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
 const Card = (props) => {
     const { name, img, founded, students, fees, address, website } = props.university
@@ -21,7 +21,7 @@ const Card = (props) => {
                             <p><span>Semister Fee :</span> {fees} TK</p>
                         </div>
                         <div className="card-footer">
-                            <button onClick={() => props.handleClick(props.university)} className='cart-btn'>Add to cart</button>
+                            <button onClick={() => props.handleClick(props.university)} className='cart-btn'> <FontAwesomeIcon className='shopping-icon' icon={faShoppingCart}></FontAwesomeIcon><span className='addTocart'>Add to cart</span></button>
                             {/* <a href={website} target="_blank">Visit</a> */}
 
 
